@@ -1,9 +1,9 @@
 ### Hi There 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-Karthick Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Karthick Kumar--01629954/)](https://www.linkedin.com/in/Karthick Kumar--01629954/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Karthick Kumar-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Karthick Kumar-yellow)](https://stackoverflow.com/users/3687251/Karthick Kumar-)
 
 I'm
 Full Stack Web Developer.
@@ -142,9 +142,9 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=KarthickKumar-2902r&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KarthickKumar-2902/KarthickKumar-2902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
