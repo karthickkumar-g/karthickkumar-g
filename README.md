@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
 <!--[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)-->
-[![Linkedin Badge](https://img.shields.io/badge/-Karthick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/karthick-kumar-a90736263/)](https://www.linkedin.com/in/karthick-kumar-a90736263/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Karthick-green)]()
+[![Linkedin Badge](https://img.shields.io/badge/-Karthick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/karthick-kumar-a90736263/)](https://www.linkedin.com/in/karthick-kumar-g/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Karthick-green)](https://karthick-2902.github.io/Portfolio/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Karthick-yellow)](https://stackoverflow.com/users/21287005/karthick-kumar)
 
 I'm
