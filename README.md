@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Karthick-yellow)](https://stackoverflow.com/users/21287005/karthick-kumar)
 
 <h1 align="center">Hi 👋, I'm Karthick</h1>
-<h3 align="center">A passionate Full stack web developer from India, Java Programmer and Python Programmer. The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs), front-end development (ReactJs, HTML5, CSS3,SCSS,Bootstrap, Javascript,),database(MongoDB,Mysql).</h3>
+<h3 align="center">A passionate Full stack web developer from India, Java Programmer and Python Programmer. The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, ExpressJs), front-end development (ReactJs, HTML5, CSS3,SCSS,Bootstrap, TailwindCss Javascript,),database(MongoDB,Mysql).</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthickkumar-2902" alt="karthickkumar-2902" /></a> </p>
 
